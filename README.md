@@ -19,6 +19,7 @@ Endirim faizi
 Mənfəət
 
 Gözlənilən Biznes Təsiri
+
 ✅ Ən gəlirli məhsul kateqoriyalarının və müştəri seqmentlərinin müəyyənləşdirilməsi
 
 ✅ Aşağı performans göstərən bölgələrin aşkarlanaraq strategiyanın təkmilləşdirilməsi
