@@ -20,7 +20,10 @@ Mənfəət
 
 Gözlənilən Biznes Təsiri
 ✅ Ən gəlirli məhsul kateqoriyalarının və müştəri seqmentlərinin müəyyənləşdirilməsi
+
 ✅ Aşağı performans göstərən bölgələrin aşkarlanaraq strategiyanın təkmilləşdirilməsi
+
 ✅ Endirimlərin mənfəətə təsirinin qiymətləndirilməsi və siyasətin yenilənməsi
+
 ✅ Daha səmərəli satış və marketinq qərarlarının verilməsi üçün data əsaslı yanaşma
 
